@@ -143,4 +143,6 @@ Nesta seção, você encontra:
 <p align="center"> <img src="https://github.com/coordenapp/tutorial-coordenador/blob/main/assets/imagem21.jpg?raw=true" alt="Tela do menu Ajuda" width="300"> </p>
 
 ---  
-*Equipe Coordenapp*
+*Desenvolvido por Amanda Souza &copy; 2025*
+<p><a href="https://www.linkedin.com/in/amandasouzadev/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-icon.svg" alt="logo do linkedin" class="icon" width="40"></a>
+<a href="https://github.com/amandasouzs" target="_blank" rel="noopener noreferrer"><img src="assets/github-icon.svg" alt="logo do github" class="icon" width="40"></a></p>
