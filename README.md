@@ -22,15 +22,15 @@ onmouseout="this.style.backgroundColor='#fb8c00'">
 </button></a>
 
 ### Adicionar atalho em Android:
-<p align="center"> <img src="assets/atalho_android.jpg" alt="Adicionar atalho em android" width="600"> </p>
+<p align="center"> <img src="assets/atalho_android.jpg" alt="Adicionar atalho em android" width="400"> </p>
 
 ### Adicionar atalho em Computador:
-<p align="center"> <img src="assets/atalho_computador1.jpg" alt="Adicionar atalho em computador" width="600"> </p>
-<p align="center"> <img src="assets/atalho_computador2.jpg" alt="Adicionar atalho em computador" width="600"> </p>
+<p align="center"> <img src="assets/atalho_computador1.jpg" alt="Adicionar atalho em computador" width="400"> </p>
+<p align="center"> <img src="assets/atalho_computador2.jpg" alt="Adicionar atalho em computador" width="400"> </p>
 
 ### Adicionar atalho em iPhone/iPad:
-<p align="center"> <img src="assets/atalho_iphone-ipad1.jpg" alt="Adicionar atalho em iphone ou ipad" width="600"> </p>
-<p align="center"> <img src="assets/atalho_iphone-ipad2.jpg" alt="Adicionar atalho em iphone ou ipad" width="600"> </p>
+<p align="center"> <img src="assets/atalho_iphone-ipad1.jpg" alt="Adicionar atalho em iphone ou ipad" width="400"> </p>
+<p align="center"> <img src="assets/atalho_iphone-ipad2.jpg" alt="Adicionar atalho em iphone ou ipad" width="400"> </p>
 
 ## 🔐 Login  
 1. Acesse a página de login  
@@ -183,5 +183,6 @@ Nesta seção, você encontra:
 *Desenvolvido por Amanda Souza &copy; 2025*
 <p><a href="https://www.linkedin.com/in/amandasouzadev/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-icon.svg" alt="logo do linkedin" class="icon" width="40"></a>
 <a href="https://github.com/amandasouzs" target="_blank" rel="noopener noreferrer"><img src="assets/github-icon.svg" alt="logo do github" class="icon" width="40"></a></p>
+
 
 
