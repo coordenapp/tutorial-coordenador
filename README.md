@@ -4,6 +4,23 @@
 
 **`Coordenapp`** é um PWA (Aplicativo Web Progressivo). Um **app da Web** é um aplicativo desenvolvido para a web que você pode acessar em qualquer dispositivo. Com ele, um site pode funcionar como um app e ser acessado no seu computador ou dispositivo móvel pelo acesso rápido ou pela tela inicial.
 
+**OBS:** Se as imagens não forem exibidas, o tutorial está disponível para download.
+<a href="assets/tutorial-coordenador.pdf" class="btn btn-red rounded-pill" target="_blank"><button style="
+    background-color: #fb8c00;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+" 
+onmouseover="this.style.backgroundColor='#b46b00'" 
+onmouseout="this.style.backgroundColor='#fb8c00'">
+    BAIXAR TUTORIAL
+</button></a>
+
 ### Adicionar atalho em Android:
 <p align="center"> <img src="https://storage.googleapis.com/buildship-lgzfqs-us-central1/uploaded-files/assets-coord/atalho_android.jpg" alt="Adicionar atalho em android" width="600"> </p>
 
@@ -148,5 +165,6 @@ Nesta seção, você encontra:
 *Desenvolvido por Amanda Souza &copy; 2025*
 <p><a href="https://www.linkedin.com/in/amandasouzadev/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-icon.svg" alt="logo do linkedin" class="icon" width="40"></a>
 <a href="https://github.com/amandasouzs" target="_blank" rel="noopener noreferrer"><img src="assets/github-icon.svg" alt="logo do github" class="icon" width="40"></a></p>
+
 
 
