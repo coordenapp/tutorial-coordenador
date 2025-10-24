@@ -5,7 +5,7 @@
 **`Coordenapp`** é um PWA (Aplicativo Web Progressivo). Um **app da Web** é um aplicativo desenvolvido para a web que você pode acessar em qualquer dispositivo. Com ele, um site pode funcionar como um app e ser acessado no seu computador ou dispositivo móvel pelo acesso rápido ou pela tela inicial.
 
 **OBS:** Se as imagens não forem exibidas, o tutorial está disponível para download.
-<a href="assets/tutorial-aluno.pdf" target="_blank"><button style="
+<a href="assets/tutorial-coordenador.pdf" target="_blank"><button style="
     background-color: #fb8c00;
     color: white;
     padding: 12px 24px;
@@ -183,4 +183,5 @@ Nesta seção, você encontra:
 *Desenvolvido por Amanda Souza &copy; 2025*
 <p><a href="https://www.linkedin.com/in/amandasouzadev/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-icon.svg" alt="logo do linkedin" class="icon" width="40"></a>
 <a href="https://github.com/amandasouzs" target="_blank" rel="noopener noreferrer"><img src="assets/github-icon.svg" alt="logo do github" class="icon" width="40"></a></p>
+
 
